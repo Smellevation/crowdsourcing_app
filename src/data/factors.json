@@ -1,0 +1,30 @@
+[
+	{
+		"id": "smells",
+		"image": "nose.jpg",
+		"options": [
+			"Go to good smells!",
+			"Avoid bad smells...",
+			"Let's do both!"
+		]
+	},
+	{
+		"id": "sounds",
+		"image": "ear.jpg",
+		"options": [
+			"Good sounds (water fountain)",
+			"Avoid bad sounds (construction)",
+			"Let's do both!"
+		]
+	},
+	{
+		"id": "elevation",
+		"image": "elevation.jpg",
+		"options": [
+			"Flat please!",
+			"Easy peasy (1-3% grade)",
+			"Medium (4-6% grade)",
+			"Challenging (7% or more grade)"
+		]
+	}
+]

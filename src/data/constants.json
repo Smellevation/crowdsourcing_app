@@ -1,0 +1,9 @@
+{
+	"ACCENT_COLOR": "#20849C",
+	"BASE_URL": "http://www.tim-bond.com/smellevation/",
+	"BUTTON_COLOR": "#00A9DE",
+	"DEFAULT_LAT_LON": [47.603783126277065, -122.32970595359802],
+	"IMAGE_SIZE": "1024",
+	"MARGIN": 10,
+	"RADIO_SELECTED_COLOR": "#D5DE75"
+}
